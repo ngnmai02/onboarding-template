@@ -1,5 +1,5 @@
 """
-Setting up the training process ad preprocess dataset if needed
+This function is to retrieve and fine-tune the model with new dataset. 
 """
 from transformers import (
     AutoTokenizer,

@@ -1,5 +1,5 @@
 """
-Setting up for fine tune assistant bot in command line
+This function is to set up for fine-tuned assistant bot in command line for usage
 """
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch

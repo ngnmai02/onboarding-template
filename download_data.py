@@ -1,5 +1,5 @@
 """
-Loading dataset from Huggingface and saving to json
+This function is used to load the dataset from HuggingFace and save it in a format of choice (e.g. json)
 """
 from datasets import load_dataset
 
